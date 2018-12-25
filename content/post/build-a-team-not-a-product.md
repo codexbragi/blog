@@ -4,6 +4,7 @@ tags = ["management"]
 categories = []
 description = "Building a team is harder than building a product, but the payoff is worth it."
 menu = "main"
+date = "2018-12-24"
 +++
 
 I've been a part of a few team growth spurts. In past lives I've been an early employee of a startup, an acquisition that preceded a large hiring ramp, and the birth of a new endeavor at an established company. All situations involved simultaneous development and hiring. 
